@@ -1,2 +1,2 @@
-# ReSukiSU_Patches
- ReSukiSU recommended manual patches.
+# ZakoDaNiuMask_Patches
+ ZakoDaNiuMask recommended manual patches.
